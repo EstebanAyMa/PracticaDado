@@ -1,2 +1,2 @@
 # PracticaDado
-practica1
+Simulación de un dado
