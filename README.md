@@ -1,3 +1,3 @@
 # PracticaDado
 Simulación de un dado
-circuito cerrado [1, 6]
+en un circuito cerrado [1, 6]
