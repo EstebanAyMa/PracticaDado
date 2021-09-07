@@ -5,3 +5,5 @@ Codigos:\
 Codigo190821 - Otcavio de Marcelo\
 CodigoP1 - Jose Mendez\
 code - Esteban Ayala
+Circuito:\
+Practica1
